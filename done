@@ -1,0 +1,20 @@
+[33mcommit 6a0c79d50bb8dda9fb1a6926b16453a994572c50[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Merge: afd707f 54d12c3
+Author: SWAGAT MOHAPATRA <144346977+Swagat-190@users.noreply.github.com>
+Date:   Mon Nov 16 12:33:58 2026 +0530
+
+    Merge pull request #1 from Swagat-190/feature/user-service
+    
+    Written the Hello
+
+[33mcommit 54d12c3311d5ad26df01ec651296337994869391[m[33m ([m[1;31morigin/feature/user-service[m[33m, [m[1;32mfeature/user-service[m[33m)[m
+Author: Swagat Mohapatra <swagat.mohapatra@csm.tech>
+Date:   Mon Nov 16 12:25:00 2026 +0530
+
+    Written the Hello
+
+[33mcommit afd707f3a582b4eb2534fed78800f234a74d47be[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Swagat Mohapatra <swagat.mohapatra@csm.tech>
+Date:   Mon Nov 16 12:02:49 2026 +0530
+
+    Initial commit
